@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cody Stumpo</title>
+    <link>http://codystumpo.github.io/</link>
+    <description>Recent content on Cody Stumpo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 16:06:55 -0800</lastBuildDate>
+    
+	<atom:link href="http://codystumpo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio Management</title>
+      <link>http://codystumpo.github.io/portfolio/portfolio-management/</link>
+      <pubDate>Wed, 19 Feb 2020 16:06:55 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/portfolio-management/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codystumpo.shinyapps.io/portGraphs2020/&#34;&gt;interactive app&lt;/a&gt; you can use to manage your investment portfolio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predicting Whiffs</title>
+      <link>http://codystumpo.github.io/portfolio/predicting-whiffs/</link>
+      <pubDate>Wed, 19 Feb 2020 16:04:55 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/predicting-whiffs/</guid>
+      <description>R code using Pitch F/X data &amp;amp; machine learning to predict swinging strikes</description>
+    </item>
+    
+    <item>
+      <title>Presidential Election 2008</title>
+      <link>http://codystumpo.github.io/portfolio/presidential-election-2008/</link>
+      <pubDate>Wed, 19 Feb 2020 16:03:59 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/presidential-election-2008/</guid>
+      <description>&lt;p&gt;A series of blog posts on Intrade, a prediction market. Combining portfolio simulation with the prediction market, I got a responsive, dynamic, and accurate predictor of the race.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MLB Extra Inning Rule Change</title>
+      <link>http://codystumpo.github.io/portfolio/mlb-extra-inning-rule-change/</link>
+      <pubDate>Wed, 19 Feb 2020 16:02:55 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/mlb-extra-inning-rule-change/</guid>
+      <description>&lt;p&gt;Used Pitch F/X data and Game Theory to analyze the likely impact of a proposed rule change to start extra innings with a man on second.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MLB Playoff Series</title>
+      <link>http://codystumpo.github.io/portfolio/mlb-playoff-series/</link>
+      <pubDate>Wed, 19 Feb 2020 15:58:07 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/mlb-playoff-series/</guid>
+      <description>&lt;p&gt;Applies a Markov Chain to compute a team&amp;rsquo;s chance of winning a major league baseball playoff series.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kaggle Classifier</title>
+      <link>http://codystumpo.github.io/portfolio/kaggle-classifier/</link>
+      <pubDate>Wed, 19 Feb 2020 15:57:41 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/kaggle-classifier/</guid>
+      <description>&lt;p&gt;My one attempt at a Kaggle competition. (finished top 17th %ile).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datakind Hackathon</title>
+      <link>http://codystumpo.github.io/portfolio/datakind/</link>
+      <pubDate>Wed, 19 Feb 2020 15:56:07 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/datakind/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/DataKind-SF/datadive_201503_techsoup-global/blob/master/recommenderA/DataDive2015_TechSoup_Recommender.ipynb&#34;&gt;Python Code&lt;/a&gt; to produce recommender system for TechSoup, a non-profit that coordinates IT donations to other non-profits.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chipotle Nutrition</title>
+      <link>http://codystumpo.github.io/portfolio/chipotle-nutrition/</link>
+      <pubDate>Wed, 19 Feb 2020 15:55:32 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/chipotle-nutrition/</guid>
+      <description>&lt;p&gt;Annoyed by the NY Times calorie-shaming analysis of data around 5000 detailed orders, I delved into the full nutritional content.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Simple WAR Calculator</title>
+      <link>http://codystumpo.github.io/portfolio/simple-war-calculator/</link>
+      <pubDate>Wed, 19 Feb 2020 15:11:34 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/simple-war-calculator/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CodyStumpo/simpleWAR&#34;&gt;R shiny code&lt;/a&gt; you can &lt;a href=&#34;https://codystumpo.shinyapps.io/simpleWAR/&#34;&gt;use&lt;/a&gt; to evaluate the Wins Above Replacement of a hitter or pitcher given his performance in key aspects of the game.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://codystumpo.github.io/portfolio/music/</link>
+      <pubDate>Tue, 19 Feb 2019 16:01:13 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/music/</guid>
+      <description>&lt;p&gt;Bassplayer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fantasy Baseball</title>
+      <link>http://codystumpo.github.io/portfolio/fantasy-baseball/</link>
+      <pubDate>Tue, 19 Feb 2019 15:59:13 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/fantasy-baseball/</guid>
+      <description>&lt;p&gt;scrape projections and send them through your league&amp;rsquo;s scoring system, generating pre-draft values and so on.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BBBlogs</title>
+      <link>http://codystumpo.github.io/portfolio/bbblogs/</link>
+      <pubDate>Tue, 19 Feb 2019 14:36:13 -0800</pubDate>
+      
+      <guid>http://codystumpo.github.io/portfolio/bbblogs/</guid>
+      <description>&lt;p&gt;Collected blogs&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
